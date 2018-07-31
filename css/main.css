@@ -26,6 +26,7 @@ background-repeat: no-repeat;
 
 .separate-buttons::before {
 content: "O bien";
+color: white;
 position: absolute;
 left: 50%;
 transform: translateX(-50%);
@@ -37,14 +38,6 @@ padding: 15px 30px;
 background-color:#f7b617;
 color:#fffef6;
 display:block;
-
-
-}
-
-.secondButton{
-content: "O bien";
-position: absolute;
-left: 50%;
 
 
 }
